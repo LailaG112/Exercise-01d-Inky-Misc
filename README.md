@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Laila Grant
 
-# Your Github username
+# LailaG112
